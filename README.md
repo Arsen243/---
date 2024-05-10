@@ -1,11 +1,9 @@
 <html lang="en-US">
 <head>
-<title>RPCS3 - The PlayStation 3 Emulator</title>
 <meta charset="utf-8">
 <meta name="description" content="RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD. The purpose of this project is to accurately emulate the PlayStation 3 in its entirety with the power of reverse engineering and community collaboration.">
 <meta name="keywords" content="rpcs3, playstation, playstation 3, ps3, emulator, debugger, windows, linux, macos, freebsd, open source, nekotekina, kd11, home">
 <meta name="google-site-verification" content="cO1o6sx54cvKxhbnYsABWtl4sYFj9uVKV0DxLKZkWv8"/>
-<?php include 'lib/module/sys-meta.php';?>
 <meta property="og:title" content="RPCS3 - The PlayStation 3 Emulator" />
 <meta property="og:description" content="RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD made possible with the power of reverse engineering." />
 <meta property="og:image" content="https://rpcs3.net/img/meta/mobile/1200.png" />
@@ -33,23 +31,6 @@
 <img src="/img/videos/3.jpg" width="1" height="1" alt="Preload"/>
 <?php include 'lib/module/sys-php.php';?>
 <?php include 'lib/module/home/inc-home-player.php'?>
-<?php
-	preloadVideo(
-	'1',
-	'19ae5Mq2lJE',
-	'1'
-	);
-	preloadVideo(
-	'2',
-	'mKON3RwjnEU',
-	'2'
-	);
-	preloadVideo(
-	'3',
-	'xUpw9bHmoac',
-	'3'
-	);
-?>
 <div class="page-con-content landing-con-override">
 	<div class="wavebar-con-container-master">
 		<div class="wavebar-con-wrap">
