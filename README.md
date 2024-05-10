@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en-US">
 <head>
 <title>RPCS3 - The PlayStation 3 Emulator</title>
@@ -357,3 +356,4 @@
 	<?php include 'lib/module/inc-footer.php';?>
 </div>
 </body>
+</html>
